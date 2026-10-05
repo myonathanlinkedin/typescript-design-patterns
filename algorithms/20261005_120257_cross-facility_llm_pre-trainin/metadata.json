@@ -1,0 +1,12 @@
+{
+  "topic": "Cross-Facility LLM Pre-training on HPC: Elastic Aggregation, Data Leasing, and",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-05T12:02:57.787545+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
