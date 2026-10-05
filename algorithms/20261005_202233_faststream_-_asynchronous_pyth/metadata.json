@@ -1,0 +1,12 @@
+{
+  "topic": "Faststream - Asynchronous Python framework for event-driven services. A thin client for",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-05T20:22:33.373879+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
