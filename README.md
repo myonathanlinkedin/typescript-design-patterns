@@ -2,7 +2,7 @@
 > Strictly typed architectural patterns, reactive streaming algorithms, and robust domain primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/typescript-design-patterns/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-5%20Modules-blue?style=for-the-badge&logo=typescript)](https://github.com/myonathanlinkedin/typescript-design-patterns)
+[![Total Modules](https://img.shields.io/badge/Algorithms-6%20Modules-blue?style=for-the-badge&logo=typescript)](https://github.com/myonathanlinkedin/typescript-design-patterns)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/typescript-design-patterns)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -18,6 +18,7 @@
 | 3 | **Cp Algorithms - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_075918_cp_algorithms_-_algorithm_and/main.ts) |
 | 4 | **Hamiltonian Eigenvalue Transformation by Tridiagonal Gadgets** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_104722_hamiltonian_eigenvalue_transfo/main.ts) |
 | 5 | **Cross-Facility LLM Pre-training on HPC: Elastic Aggregation, Data Leasing, and** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_120257_cross-facility_llm_pre-trainin/main.ts) |
+| 6 | **Faster Sublinear Maximal Independent Set Size** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_140217_faster_sublinear_maximal_indep/engine.ts) |
 
 ---
 
@@ -46,4 +47,4 @@ npm test
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 12:03 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 14:02 UTC*</sub>
