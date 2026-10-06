@@ -1,45 +1,40 @@
 # Safe Optimistic Lock Coupling
 
-> Production-grade, mathematically verified TypeScript implementation of **Safe Optimistic Lock Coupling**.  
-> Developed and maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
+Core **TypeScript** implementation for **Safe Optimistic Lock Coupling**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ---
 
-## 📐 Mathematical & Architectural Overview
-This module implements the **Safe Optimistic Lock Coupling** algorithm and data structure using modern, idiomatic **TypeScript** with zero external dependencies.
+## 🏛️ Architecture & Design Decisions
 
-### 🔍 Design Characteristics:
-* **Memory Safety & Layout**: Optimized memory allocation and cache locality for maximum runtime efficiency.
-* **Deterministic Guarantees**: Enforces strict invariant fulfillment across state transitions.
-* **Thread Safety**: Formally resilient against race conditions and concurrency hazards or deterministically isolated.
+This module organizes `Safe Optimistic Lock Coupling` into an isolated, self-contained unit:
+* **Domain Focus**: `Low-Latency Systems & Memory Layout`
+* **Primary Primitives**: `Contiguous Memory Buffer & Ring Pointers`
+* **Memory Strategy**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Correctness Model**: State consistency is verified after mutations through assertion test coverage.
 
----
+### Asymptotic Complexity
 
-## 📊 Big-O Complexity Analysis
-
-| Dimension | Complexity | Performance Profile |
-|---|:---:|---|
-| **Time (Best Case)** | $\mathcal{O}(1)$ to $\mathcal{O}(\log N)$ | Dependent on access patterns and cache hit ratio. |
-| **Time (Average / Worst)** | $\mathcal{O}(N)$ to $\mathcal{O}(N \log N)$ | Asymptotically optimal for generalized workloads. |
-| **Space (Memory Footprint)** | $\mathcal{O}(1)$ to $\mathcal{O}(N)$ | Minimal heap allocation overhead. |
+| Metric | Bound | Characteristics |
+| :--- | :---: | :--- |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(1)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N) bounded` | Strict bounds without unconstrained heap growth |
 
 ---
 
-## 🧪 Verification & Unit Test Driver
-The `main.ts` file includes a self-contained test assertion suite validating:
-1. **Happy Path**: Standard operational workflows with verified inputs.
-2. **Edge Cases**: Boundary handling (empty inputs, extreme values, numeric limits).
-3. **Invariants Checking**: State consistency verification across structural mutations.
+## 🧪 Verification Suite
 
----
+The accompanying `main.ts` driver executes self-contained verification tests:
+1. **Nominal Flow**: Validates baseline correctness under typical real-world inputs.
+2. **Boundary Conditions**: Exercises extreme edge cases (empty inputs, singletons, capacity limits).
+3. **Invariant Preservation**: Validates internal state consistency throughout mutation lifecycles.
 
-## ⚡ How to Run & Verify Locally
+### Running Locally
 
 ```bash
-# Execute test runner for this module
-node main.ts
+npx ts-node main.ts
 ```
 
 ---
 
-<sub>🔬 *Artifact generated & verified by Universal Polyglot Autonomous Engineering Engine • 2026-10-05 06:47:44 UTC*</sub>
+<sub>Standard TypeScript reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

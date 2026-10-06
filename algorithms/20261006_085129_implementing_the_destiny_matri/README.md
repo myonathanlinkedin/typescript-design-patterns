@@ -1,20 +1,20 @@
 # Implementing the Destiny Matrix in TypeScript: reducing a birth date to Major Arcana (TypeScript)
 
-> Modern **TypeScript** reference architecture for **Implementing the Destiny Matrix in TypeScript: reducing a birth date to Major Arcana**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+> Core **TypeScript** implementation for **Implementing the Destiny Matrix in TypeScript: reducing a birth date to Major Arcana**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Implementing the Destiny Matrix in TypeScript: reducing a birth date to Major Arcana**:
 * **Data Organization**: Built upon `Lookup Tables & Bitwise Bitvectors` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Execution Guarantees**: State consistency is verified after every mutation through formal invariant validation.
+* **Safety Invariants**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Execution Guarantees**: State consistency is verified after mutations through assertion test coverage.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(N \log N)$`
-  * Generalized (Avg / Worst): `$O(N \log N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(N log N)`
+  * Generalized (Avg / Worst): `O(N log N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 
@@ -30,4 +30,4 @@ npx ts-node main.ts
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

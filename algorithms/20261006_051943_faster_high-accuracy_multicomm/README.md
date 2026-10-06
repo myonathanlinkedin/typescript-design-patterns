@@ -1,12 +1,12 @@
 # Faster high-accuracy multicommodity flow in dense graphs
 
-Modern **TypeScript** reference architecture for **Faster high-accuracy multicommodity flow in dense graphs**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **TypeScript** implementation for **Faster high-accuracy multicommodity flow in dense graphs**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ### Core Highlights
 * **Language & Standard**: Modern `TypeScript` standard library conventions.
 * **Architecture Pattern**: Designed for `Graph Topology & Traversal` using `Adjacency List & Priority Heap`.
-* **Runtime Overhead**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Concurrency & Safety**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Runtime Overhead**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Concurrency & Safety**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ---
 
@@ -14,9 +14,9 @@ Modern **TypeScript** reference architecture for **Faster high-accuracy multicom
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(V + E)$` |
-| **Time (Worst Case)** | `$O(V^2)$` |
-| **Auxiliary Space** | `$O(V + E)$` |
+| **Time (Best Case)** | `O(V + E)` |
+| **Time (Worst Case)** | `O(V^2)` |
+| **Auxiliary Space** | `O(V + E)` |
 
 ---
 
@@ -30,4 +30,4 @@ npx ts-node main.ts
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

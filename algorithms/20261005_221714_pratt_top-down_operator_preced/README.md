@@ -1,20 +1,20 @@
 # Pratt Top-Down Operator Precedence Expression Parser (TypeScript)
 
-> Modern **TypeScript** reference architecture for **Pratt Top-Down Operator Precedence Expression Parser**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+> Core **TypeScript** implementation for **Pratt Top-Down Operator Precedence Expression Parser**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Pratt Top-Down Operator Precedence Expression Parser**:
 * **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Execution Guarantees**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Safety Invariants**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Execution Guarantees**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 
@@ -30,4 +30,4 @@ npx ts-node main.ts
 
 ---
 
-<sub>Crafted with modern TypeScript standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard TypeScript reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

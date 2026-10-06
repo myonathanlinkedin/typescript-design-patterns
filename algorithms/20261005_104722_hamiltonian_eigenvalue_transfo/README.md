@@ -1,20 +1,20 @@
 # Hamiltonian Eigenvalue Transformation by Tridiagonal Gadgets (TypeScript)
 
-> A clean, dependency-free **TypeScript** implementation of **Hamiltonian Eigenvalue Transformation by Tridiagonal Gadgets**, focused on predictable latency, strict memory layout, and deterministic execution.
+> A clean, dependency-free **TypeScript** reference implementation of **Hamiltonian Eigenvalue Transformation by Tridiagonal Gadgets**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Hamiltonian Eigenvalue Transformation by Tridiagonal Gadgets**:
 * **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Execution Guarantees**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Safety Invariants**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Execution Guarantees**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 
@@ -30,4 +30,4 @@ npx ts-node main.ts
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

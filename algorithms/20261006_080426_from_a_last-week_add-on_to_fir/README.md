@@ -1,6 +1,6 @@
 # From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance
 
-A clean, dependency-free **TypeScript** implementation of **From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **TypeScript** reference implementation of **From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ---
 
@@ -9,16 +9,16 @@ A clean, dependency-free **TypeScript** implementation of **From a Last-Week Add
 This module organizes `From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Correctness Model**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Memory Strategy**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Correctness Model**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 

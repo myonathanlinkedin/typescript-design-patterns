@@ -1,12 +1,12 @@
 # Faster Sublinear Maximal Independent Set Size
 
-Modern **TypeScript** reference architecture for **Faster Sublinear Maximal Independent Set Size**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **TypeScript** implementation for **Faster Sublinear Maximal Independent Set Size**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ### Core Highlights
 * **Language & Standard**: Modern `TypeScript` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Concurrency & Safety**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Runtime Overhead**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Concurrency & Safety**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ---
 
@@ -14,9 +14,9 @@ Modern **TypeScript** reference architecture for **Faster Sublinear Maximal Inde
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ npx ts-node main.ts
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

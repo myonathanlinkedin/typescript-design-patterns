@@ -1,12 +1,12 @@
 # Reth - Modular, contributor-friendly and blazing-fast implementation of the Ethereum
 
-High-performance **Reth - Modular, contributor-friendly and blazing-fast implementation of the Ethereum** primitive implemented in idiomatic **TypeScript**. Built from scratch using standard library constructs with zero external dependencies.
+Self-contained **Reth - Modular, contributor-friendly and blazing-fast implementation of the Ethereum** algorithmic primitive written in idiomatic **TypeScript**. Built from scratch using standard library constructs with zero external dependencies.
 
 ### Core Highlights
 * **Language & Standard**: Modern `TypeScript` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Concurrency & Safety**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Runtime Overhead**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Concurrency & Safety**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ---
 
@@ -14,9 +14,9 @@ High-performance **Reth - Modular, contributor-friendly and blazing-fast impleme
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 

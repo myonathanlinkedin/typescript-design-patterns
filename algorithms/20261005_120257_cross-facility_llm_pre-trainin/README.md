@@ -1,20 +1,20 @@
 # Cross-Facility LLM Pre-training on HPC: Elastic Aggregation, Data Leasing, and (TypeScript)
 
-> A clean, dependency-free **TypeScript** implementation of **Cross-Facility LLM Pre-training on HPC: Elastic Aggregation, Data Leasing, and**, focused on predictable latency, strict memory layout, and deterministic execution.
+> A clean, dependency-free **TypeScript** reference implementation of **Cross-Facility LLM Pre-training on HPC: Elastic Aggregation, Data Leasing, and**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Cross-Facility LLM Pre-training on HPC: Elastic Aggregation, Data Leasing, and**:
 * **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Execution Guarantees**: State consistency is verified after every mutation through formal invariant validation.
+* **Safety Invariants**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Execution Guarantees**: State consistency is verified after mutations through assertion test coverage.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 

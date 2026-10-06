@@ -1,6 +1,6 @@
 # Least Recently Used (LRU) Cache with Doubly Linked List
 
-Modern **TypeScript** reference architecture for **Least Recently Used (LRU) Cache with Doubly Linked List**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **TypeScript** implementation for **Least Recently Used (LRU) Cache with Doubly Linked List**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ---
 
@@ -9,16 +9,16 @@ Modern **TypeScript** reference architecture for **Least Recently Used (LRU) Cac
 This module organizes `Least Recently Used (LRU) Cache with Doubly Linked List` into an isolated, self-contained unit:
 * **Domain Focus**: `Low-Latency Systems & Memory Layout`
 * **Primary Primitives**: `Contiguous Memory Buffer & Ring Pointers`
-* **Memory Strategy**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Correctness Model**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Memory Strategy**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Correctness Model**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(1)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N) bounded$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(1)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N) bounded` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ npx ts-node main.ts
 
 ---
 
-<sub>Crafted with modern TypeScript standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard TypeScript reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

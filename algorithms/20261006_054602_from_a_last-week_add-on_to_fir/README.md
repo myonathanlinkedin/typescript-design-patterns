@@ -1,24 +1,24 @@
-# From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance
+# High-Performance MPI Parallel Communication and Distributed Synchronization
 
-A clean, dependency-free **TypeScript** implementation of **From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **TypeScript** reference implementation of **High-Performance MPI Parallel Communication and Distributed Synchronization**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ---
 
 ## 🏛️ Architecture & Design Decisions
 
-This module organizes `From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance` into an isolated, self-contained unit:
+This module organizes `High-Performance MPI Parallel Communication and Distributed Synchronization` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Correctness Model**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Memory Strategy**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Correctness Model**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ npx ts-node main.ts
 
 ---
 
-*Source code released under the MIT License • [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
