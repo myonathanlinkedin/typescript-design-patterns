@@ -1,0 +1,12 @@
+{
+  "topic": "A Uniform Algorithm for Strict NP on Bounded-Treedepth Graphs",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-06T07:04:38.843103+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
