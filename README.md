@@ -2,7 +2,7 @@
 > Strictly typed architectural patterns, reactive streaming algorithms, and robust domain primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/typescript-design-patterns/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-21%20Modules-blue?style=for-the-badge&logo=typescript)](https://github.com/myonathanlinkedin/typescript-design-patterns)
+[![Total Modules](https://img.shields.io/badge/Algorithms-22%20Modules-blue?style=for-the-badge&logo=typescript)](https://github.com/myonathanlinkedin/typescript-design-patterns)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/typescript-design-patterns)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -34,6 +34,7 @@
 | 19 | **Ethrex - Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_073203_ethrex_-_minimalist__stable__m/engine.ts) |
 | 20 | **Pratt Top-Down Operator Precedence Expression Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_074754_pratt_top-down_operator_preced/main.ts) |
 | 21 | **From a Last-Week Add-On to First-Day Practice: Three Years of Integrating MPI Performance** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_080426_from_a_last-week_add-on_to_fir/main.ts) |
+| 22 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_080953_least_recently_used__lru__cach/list.ts) |
 
 ---
 
@@ -62,4 +63,4 @@ npm test
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 08:04 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 08:10 UTC*</sub>

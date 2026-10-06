@@ -1,0 +1,14 @@
+{
+  "topic": "Least Recently Used (LRU) Cache with Doubly Linked List",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-06T08:09:53.525797+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "list.ts",
+    "lru.ts",
+    "main.ts"
+  ]
+}
