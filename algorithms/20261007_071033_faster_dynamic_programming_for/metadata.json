@@ -1,0 +1,12 @@
+{
+  "topic": "Faster dynamic programming for tridiagonal maximum-entropy sampling",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-07T07:10:33.259119+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
