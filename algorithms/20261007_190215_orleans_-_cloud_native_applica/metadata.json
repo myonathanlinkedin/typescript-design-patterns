@@ -1,0 +1,13 @@
+{
+  "topic": "Orleans - Cloud Native application framework for .NET",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-07T19:02:15.356788+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
