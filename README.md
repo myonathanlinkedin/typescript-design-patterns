@@ -2,7 +2,7 @@
 > Strictly typed architectural patterns, reactive streaming algorithms, and robust domain primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/typescript-design-patterns/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-28%20Modules-blue?style=for-the-badge&logo=typescript)](https://github.com/myonathanlinkedin/typescript-design-patterns)
+[![Total Modules](https://img.shields.io/badge/Algorithms-29%20Modules-blue?style=for-the-badge&logo=typescript)](https://github.com/myonathanlinkedin/typescript-design-patterns)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/typescript-design-patterns)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -41,6 +41,7 @@
 | 26 | **Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_000217_burn_0_22_0__faster_builds__ea/main.ts) |
 | 27 | **A Fast Algorithm for Maltsev Constraints** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_021503_a_fast_algorithm_for_maltsev_c/engine.ts) |
 | 28 | **Faster dynamic programming for tridiagonal maximum-entropy sampling** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_071033_faster_dynamic_programming_for/main.ts) |
+| 29 | **How Dijkstra s Algorithm Finds the Fastest Route** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_092337_how_dijkstra_s_algorithm_finds/engine.ts) |
 
 ---
 
@@ -69,4 +70,4 @@ npm test
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 07:10 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 09:23 UTC*</sub>
