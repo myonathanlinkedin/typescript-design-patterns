@@ -1,0 +1,12 @@
+{
+  "topic": "Materialize - The live data layer for apps and AI agents. Create up-to-the-second views",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-07T14:13:44.869062+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
