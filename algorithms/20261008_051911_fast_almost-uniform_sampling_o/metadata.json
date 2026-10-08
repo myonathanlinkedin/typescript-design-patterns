@@ -1,0 +1,13 @@
+{
+  "topic": "Fast Almost-Uniform Sampling of Random $k$-SAT Solutions",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-08T05:19:11.068144+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
