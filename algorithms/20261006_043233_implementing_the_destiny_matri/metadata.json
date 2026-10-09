@@ -1,0 +1,12 @@
+{
+  "topic": "Type-Safe Matrix Transformation and Reduction Engine",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-06T04:32:33.033649+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}

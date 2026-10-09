@@ -1,0 +1,13 @@
+{
+  "topic": "Red-Black Tree with Deterministic Balance Assertions",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-08T17:02:25.698407+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}

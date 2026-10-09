@@ -1,0 +1,12 @@
+{
+  "topic": "Safe Optimistic Lock Coupling",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-09T02:02:04.358236+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
