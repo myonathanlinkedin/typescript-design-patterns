@@ -2,7 +2,7 @@
 > Strictly typed architectural patterns, reactive streaming algorithms, and robust domain primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/typescript-design-patterns/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-22%20Modules-blue?style=for-the-badge&logo=typescript)](https://github.com/myonathanlinkedin/typescript-design-patterns)
+[![Total Modules](https://img.shields.io/badge/Algorithms-23%20Modules-blue?style=for-the-badge&logo=typescript)](https://github.com/myonathanlinkedin/typescript-design-patterns)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/typescript-design-patterns)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -35,6 +35,7 @@
 | 20 | **Adding Go s defer to the TypeScript Compiler** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_060203_adding_go_s_defer_to_the_types/main.ts) |
 | 21 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_070529_least_recently_used__lru__cach/main.ts) |
 | 22 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_170557_least_recently_used__lru__cach/main.ts) |
+| 23 | **I Wrote a JSON Parser From Scratch** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_180205_i_wrote_a_json_parser_from_scr/main.ts) |
 
 ---
 
@@ -63,4 +64,4 @@ npm test
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-10 17:06 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-10 18:02 UTC*</sub>
