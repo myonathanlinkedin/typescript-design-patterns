@@ -1,0 +1,12 @@
+{
+  "topic": "I Wrote a JSON Parser From Scratch",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-10T18:02:05.669129+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
