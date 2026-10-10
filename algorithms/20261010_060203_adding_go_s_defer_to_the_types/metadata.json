@@ -1,0 +1,12 @@
+{
+  "topic": "Adding Go s defer to the TypeScript Compiler",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-10T06:02:03.832890+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
