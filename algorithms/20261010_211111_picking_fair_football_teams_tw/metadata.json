@@ -1,0 +1,13 @@
+{
+  "topic": "Picking fair football teams twice: one algorithm in TypeScript and Swift, same answer",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-10T21:11:11.501426+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
