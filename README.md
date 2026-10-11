@@ -2,7 +2,7 @@
 > Strictly typed architectural patterns, reactive streaming algorithms, and robust domain primitives. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/typescript-design-patterns/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-28%20Modules-blue?style=for-the-badge&logo=typescript)](https://github.com/myonathanlinkedin/typescript-design-patterns)
+[![Total Modules](https://img.shields.io/badge/Algorithms-29%20Modules-blue?style=for-the-badge&logo=typescript)](https://github.com/myonathanlinkedin/typescript-design-patterns)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/typescript-design-patterns)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -41,6 +41,7 @@
 | 26 | **Finite State Machine Tokenizer and Lexical Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_013427_finite_state_machine_tokenizer/engine.ts) |
 | 27 | **Faster Directed Hopsets, Distance Preservers, and Deterministic Shortcut Sets** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_081439_faster_directed_hopsets__dista/engine.ts) |
 | 28 | **Wingfoil - ultra low latency graph based stream processing framework** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_084925_wingfoil_-_ultra_low_latency_g/main.ts) |
+| 29 | **Javascript Datastructures Algorithms** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_090157_javascript_datastructures_algo/main.ts) |
 
 ---
 
@@ -69,4 +70,4 @@ npm test
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 08:49 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 09:02 UTC*</sub>
