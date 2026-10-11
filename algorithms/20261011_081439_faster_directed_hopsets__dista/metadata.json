@@ -1,0 +1,13 @@
+{
+  "topic": "Faster Directed Hopsets, Distance Preservers, and Deterministic Shortcut Sets",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-11T08:14:39.496243+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
