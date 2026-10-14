@@ -9,43 +9,51 @@
 
 ---
 
+> ### ⚙️ Autonomous TypeScript Systems Governance & Legal Notice
+> **Domain Architecture & Statutory Disclaimers:**
+> - **Autonomous Domain Synthesis:** Implementations within this TypeScript repository are autonomously generated via multi-agent pipelines specializing in Structural Subtyping, Event-Loop Non-Blocking I/O & V8 JIT Optimization, concurrency semantics, and low-level system idioms.
+> - **Engineering Supervision:** Structural interfaces, toolchain constraints, and verification protocols are architected and governed by the maintainer as **Systems Architect**. Code artifacts are subjected to deterministic compiler toolchain checks prior to distribution.
+> - **STATUTORY DISCLAIMER OF WARRANTIES:** THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED.
+
+---
+
 ## 🧭 Algorithmic Directory & Navigation (Auto-Updated)
 
 | # | Module / Algorithm | Category | Time Complexity | Space Complexity | Verification Driver | Source Code |
 |---|---|---|:---:|:---:|:---:|:---:|
-| 1 | **Pratt Top-Down Operator Precedence Expression Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_221714_pratt_top-down_operator_preced/main.ts) |
-| 2 | **Type-Safe Matrix Transformation and Reduction Engine** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_043233_implementing_the_destiny_matri/main.ts) |
-| 3 | **Pratt Top-Down Operator Precedence Expression Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_074754_pratt_top-down_operator_preced/main.ts) |
-| 4 | **Pratt Top-Down Operator Precedence Expression Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_092408_pratt_top-down_operator_preced/main.ts) |
+| 1 | **Pratt Top-Down Operator Precedence Expression Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_221714_pratt_top-down_operator_preced/core.ts) |
+| 2 | **Type-Safe Matrix Transformation and Reduction Engine** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_043233_implementing_the_destiny_matri/core.ts) |
+| 3 | **Pratt Top-Down Operator Precedence Expression Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_074754_pratt_top-down_operator_preced/core.ts) |
+| 4 | **Pratt Top-Down Operator Precedence Expression Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_092408_pratt_top-down_operator_preced/core.ts) |
 | 5 | **Pratt Top-Down Operator Precedence Expression Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_230835_pratt_top-down_operator_preced/engine.ts) |
-| 6 | **Reimplementing a Trie Reminded Me How Autocomplete Actually Works** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_124308_reimplementing_a_trie_reminded/main.ts) |
-| 7 | **How Dijkstra s Algorithm Finds the Fastest Route** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_130432_how_dijkstra_s_algorithm_finds/main.ts) |
-| 8 | **What Actually Happens During Garbage Collection: Tri-Color Marking, Write Barriers, and** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_130653_what_actually_happens_during_g/main.ts) |
+| 6 | **Reimplementing a Trie Reminded Me How Autocomplete Actually Works** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_124308_reimplementing_a_trie_reminded/core.ts) |
+| 7 | **How Dijkstra s Algorithm Finds the Fastest Route** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_130432_how_dijkstra_s_algorithm_finds/core.ts) |
+| 8 | **What Actually Happens During Garbage Collection: Tri-Color Marking, Write Barriers, and** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_130653_what_actually_happens_during_g/core.ts) |
 | 9 | **The Multiple Unicast Conjecture is False** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_131259_the_multiple_unicast_conjectur/engine.ts) |
 | 10 | **Fast Almost-Uniform Sampling of Random k-SAT Solutions** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_150756_fast_almost-uniform_sampling_o/engine.ts) |
 | 11 | **Red-Black Tree with Deterministic Balance Assertions** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_170225_red-black_tree_with_determinis/engine.ts) |
-| 12 | **Safe Optimistic Lock Coupling** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_020204_safe_optimistic_lock_coupling/main.ts) |
+| 12 | **Safe Optimistic Lock Coupling** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_020204_safe_optimistic_lock_coupling/core.ts) |
 | 13 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_040428_least_recently_used__lru__cach/engine.ts) |
 | 14 | **Faster Planar Graph Algorithms for Connectivity Problems via Meanders** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_080431_faster_planar_graph_algorithms/engine.ts) |
-| 15 | **Self-Balancing AVL Tree with Full Rotation Engine** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_125014_self-balancing_avl_tree_with_f/main.ts) |
-| 16 | **Finite State Machine Tokenizer and Lexical Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_140224_finite_state_machine_tokenizer/main.ts) |
-| 17 | **Finite State Machine Tokenizer and Lexical Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_141651_finite_state_machine_tokenizer/main.ts) |
+| 15 | **Self-Balancing AVL Tree with Full Rotation Engine** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_125014_self-balancing_avl_tree_with_f/core.ts) |
+| 16 | **Finite State Machine Tokenizer and Lexical Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_140224_finite_state_machine_tokenizer/core.ts) |
+| 17 | **Finite State Machine Tokenizer and Lexical Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_141651_finite_state_machine_tokenizer/core.ts) |
 | 18 | **Finite State Machine Tokenizer and Lexical Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_141953_finite_state_machine_tokenizer/engine.ts) |
-| 19 | **Finite State Machine Tokenizer and Lexical Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_143215_finite_state_machine_tokenizer/token.ts) |
+| 19 | **Finite State Machine Tokenizer and Lexical Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_143215_finite_state_machine_tokenizer/core.ts) |
 | 20 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_145321_least_recently_used__lru__cach/engine.ts) |
-| 21 | **Adding Go s defer to the TypeScript Compiler** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_060203_adding_go_s_defer_to_the_types/main.ts) |
-| 22 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_070529_least_recently_used__lru__cach/main.ts) |
-| 23 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_170557_least_recently_used__lru__cach/main.ts) |
-| 24 | **I Wrote a JSON Parser From Scratch** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_180205_i_wrote_a_json_parser_from_scr/main.ts) |
+| 21 | **Adding Go s defer to the TypeScript Compiler** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_060203_adding_go_s_defer_to_the_types/core.ts) |
+| 22 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_070529_least_recently_used__lru__cach/core.ts) |
+| 23 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_170557_least_recently_used__lru__cach/core.ts) |
+| 24 | **I Wrote a JSON Parser From Scratch** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_180205_i_wrote_a_json_parser_from_scr/core.ts) |
 | 25 | **Picking fair football teams twice: one algorithm in TypeScript and Swift, same answer** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_211111_picking_fair_football_teams_tw/engine.ts) |
-| 26 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_011555_least_recently_used__lru__cach/main.ts) |
+| 26 | **Least Recently Used (LRU) Cache with Doubly Linked List** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_011555_least_recently_used__lru__cach/core.ts) |
 | 27 | **Finite State Machine Tokenizer and Lexical Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_013427_finite_state_machine_tokenizer/engine.ts) |
 | 28 | **Faster Directed Hopsets, Distance Preservers, and Deterministic Shortcut Sets** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_081439_faster_directed_hopsets__dista/engine.ts) |
-| 29 | **Wingfoil - ultra low latency graph based stream processing framework** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_084925_wingfoil_-_ultra_low_latency_g/main.ts) |
-| 30 | **Javascript Datastructures Algorithms** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_090157_javascript_datastructures_algo/main.ts) |
+| 29 | **Wingfoil - ultra low latency graph based stream processing framework** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_084925_wingfoil_-_ultra_low_latency_g/core.ts) |
+| 30 | **Javascript Datastructures Algorithms** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_090157_javascript_datastructures_algo/core.ts) |
 | 31 | **Finite State Machine Tokenizer and Lexical Parser** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_140207_finite_state_machine_tokenizer/engine.ts) |
 | 32 | **Faststream** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261012_010130_faststream/engine.ts) |
-| 33 | **Ispa parser generator** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261012_130105_ispa_parser_generator/main.ts) |
+| 33 | **Ispa parser generator** | typescript | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261012_130105_ispa_parser_generator/core.ts) |
 
 ---
 
@@ -74,4 +82,4 @@ npm test
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-12 13:01 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-14 06:21 UTC*</sub>
