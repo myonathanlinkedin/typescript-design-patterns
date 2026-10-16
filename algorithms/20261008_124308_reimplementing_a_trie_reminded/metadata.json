@@ -1,0 +1,12 @@
+{
+  "topic": "Reimplementing a Trie Reminded Me How Autocomplete Actually Works",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-08T12:43:08.575594+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}

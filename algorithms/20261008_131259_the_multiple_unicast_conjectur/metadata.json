@@ -1,0 +1,13 @@
+{
+  "topic": "The Multiple Unicast Conjecture is False",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-08T13:12:59.624561+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}

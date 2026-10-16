@@ -1,0 +1,13 @@
+{
+  "topic": "Faster Planar Graph Algorithms for Connectivity Problems via Meanders",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-09T08:04:31.170608+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
