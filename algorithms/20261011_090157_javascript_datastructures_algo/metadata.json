@@ -1,0 +1,12 @@
+{
+  "topic": "Javascript Datastructures Algorithms",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-11T09:01:57.539722+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}

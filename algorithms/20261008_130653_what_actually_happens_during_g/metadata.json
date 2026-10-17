@@ -1,0 +1,12 @@
+{
+  "topic": "What Actually Happens During Garbage Collection: Tri-Color Marking, Write Barriers, and",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-08T13:06:53.488640+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}

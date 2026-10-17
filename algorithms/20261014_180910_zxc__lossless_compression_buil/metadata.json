@@ -1,0 +1,12 @@
+{
+  "topic": "ZXC: Lossless compression built for ultra-fast decode",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-14T18:09:10.866169+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
