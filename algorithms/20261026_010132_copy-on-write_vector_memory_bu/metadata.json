@@ -1,0 +1,11 @@
+{
+  "topic": "Copy-on-Write Vector Memory Buffer Management",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-10-26T01:01:32.532056+00:00",
+  "source_file": "types.ts",
+  "files": [
+    "types.ts"
+  ]
+}
