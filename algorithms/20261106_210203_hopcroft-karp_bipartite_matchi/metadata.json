@@ -1,0 +1,12 @@
+{
+  "topic": "Hopcroft-Karp Bipartite Matching Algorithm",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-11-06T21:02:03.169395+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
