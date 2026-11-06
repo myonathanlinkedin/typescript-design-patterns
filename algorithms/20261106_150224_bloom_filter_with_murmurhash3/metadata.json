@@ -1,0 +1,13 @@
+{
+  "topic": "Bloom Filter with MurmurHash3 Hash Functions",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-11-06T15:02:24.382221+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
