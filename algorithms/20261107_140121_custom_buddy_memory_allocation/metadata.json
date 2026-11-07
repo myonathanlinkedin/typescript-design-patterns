@@ -1,0 +1,13 @@
+{
+  "topic": "Custom Buddy Memory Allocation System",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-11-07T14:01:21.793491+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
