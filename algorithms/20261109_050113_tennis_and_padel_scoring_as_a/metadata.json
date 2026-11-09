@@ -1,0 +1,13 @@
+{
+  "topic": "Tennis and padel scoring as a state machine in TypeScript",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-11-09T05:01:13.333946+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
