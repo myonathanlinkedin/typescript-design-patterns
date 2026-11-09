@@ -1,0 +1,12 @@
+{
+  "topic": "The parser survey a USENIX paper left as future work",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-11-09T01:02:30.923481+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
