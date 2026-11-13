@@ -1,0 +1,13 @@
+{
+  "topic": "Suffix Automaton for Linear-Time Substring Indexing",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-11-13T01:02:24.993271+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
