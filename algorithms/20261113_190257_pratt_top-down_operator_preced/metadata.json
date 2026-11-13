@@ -1,0 +1,12 @@
+{
+  "topic": "Pratt Top-Down Operator Precedence Expression Parser",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-11-13T19:02:57.335651+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
