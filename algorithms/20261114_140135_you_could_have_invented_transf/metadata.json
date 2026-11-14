@@ -1,0 +1,12 @@
+{
+  "topic": "You could have invented transformers from memory",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-11-14T14:01:35.045681+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "core.ts",
+    "main.ts"
+  ]
+}
