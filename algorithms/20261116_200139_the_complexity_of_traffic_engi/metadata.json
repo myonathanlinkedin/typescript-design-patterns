@@ -1,0 +1,13 @@
+{
+  "topic": "The Complexity of Traffic Engineering in Segment Routing Networks",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-11-16T20:01:39.564428+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
