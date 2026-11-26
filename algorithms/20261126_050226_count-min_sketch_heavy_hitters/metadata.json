@@ -1,0 +1,13 @@
+{
+  "topic": "Count-Min Sketch Heavy Hitters Frequency Estimator",
+  "language": "TypeScript",
+  "extension": ".ts",
+  "category": "typescript",
+  "timestamp_utc": "2026-11-26T05:02:26.215915+00:00",
+  "source_file": "main.ts",
+  "files": [
+    "types.ts",
+    "engine.ts",
+    "main.ts"
+  ]
+}
